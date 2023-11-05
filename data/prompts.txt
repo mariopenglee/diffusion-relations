@@ -1,0 +1,15 @@
+person|sitting on|chair
+person|holding|umbrella
+person|riding|horse
+chair|beside|dining table
+person|playing|surfboard
+spoon|in|bowl
+umbrella|over|person
+person|throwing|frisbee
+book|on|dining table
+person|pulling|suitcase
+person|touching|laptop
+person|leaning on|bench
+laptop|on|person
+spoon|on|bowl
+elephant|carrying|person
